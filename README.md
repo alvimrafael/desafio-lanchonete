@@ -184,10 +184,10 @@ A API de Lanchonete é um sistema para gerenciamento de pedidos e produtos em um
 - Itens Pedido
 - DTOs (Data Transfer Objects) para requisições e respostas
 
-- ## Modelo de Dados
+## Autenticação e Autorização
   Não foi implementado por falta de tempo. Mas é previsto autenticação via token JWT
 
-## Modelo de Dados
+## Erros e Exceções
   Erros e exceções não foram tratados por falta de tempo, mas tava previsto também
 
 ## Documentação
